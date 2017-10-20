@@ -2,7 +2,4 @@ Hello My name is turja.
 This is line is added in bla bla
 Line added in master
 Line 4 added in master
-
-
-
-Some other lines
+Lines are being added
