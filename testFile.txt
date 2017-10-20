@@ -1,3 +1,4 @@
 Hello My name is turja.
 This is line is added in bla bla
 Line added in master
+Line 2 added in master
